@@ -1,2 +1,2 @@
 # PYTHON
-Python codes for various projects/problems
+Python code to simulate the 2D ferromagnetic Ising model
